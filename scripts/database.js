@@ -35,11 +35,7 @@ const database = {
         }
     ],
 
-    orderBuilder: 
-    {
-       
-
-    },
+    orderBuilder: {}
 }
 
 export const addCustomOrder = () => {
