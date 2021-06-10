@@ -10,3 +10,6 @@
     
 }
 
+.choices {
+    display: flex;
+}
